@@ -1,1 +1,3 @@
-New text added to conflict with other file
+# References
+
+* octocat 1 😈
